@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**, com foco em desenvolvimento front-end e programação em Python. Apaixonado por tecnologia, inclusão digital e projetos que geram impacto real.
+Sou estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**, com foco em desenvolvimento front-end e backend(atualmente python). Apaixonado por tecnologia, inclusão digital e projetos que geram impacto real.
 
 Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais que vão desde plataformas educacionais até assistentes de inteligência artificial inspirados no J.A.R.V.I.S.
 
