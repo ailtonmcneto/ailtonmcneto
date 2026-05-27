@@ -52,8 +52,7 @@ Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais q
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ailtonmcneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonmcneto&layout=compact&theme=github_dark&hide_border=true"/>
+![Ailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailtonmcneto&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
 
 </div>
 
