@@ -48,11 +48,9 @@ Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais q
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
 
-![Ailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailtonmcneto&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ailtonmcneto&theme=github-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
