@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**, com foco em desenvolvimento front-end e backend(atualmente python). Apaixonado por tecnologia, inclusão digital e projetos que geram impacto real.
+Sou estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**, com foco em desenvolvimento front-end e backend(atualmente python). Apaixonado por tecnologia e computação.
 
-Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais que vão desde plataformas educacionais até assistentes de inteligência artificial inspirados no J.A.R.V.I.S.
+Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais que vão desde plataformas educacionais até assistentes de inteligência artificial.
 
 > *"Cada linha de código é um passo em direção a quem quero me tornar como profissional."*
 
@@ -42,7 +42,7 @@ Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais q
 ---
 
 ### 🤖 Projeto JARVIS *(em desenvolvimento)*
-> Assistente de IA por **voz** inspirado no J.A.R.V.I.S. do Homem de Ferro.  
+> Assistente de IA por **voz** .  
 > Controle de aplicativos, clima, música, busca no Google, memória persistente e muito mais.  
 > `Python` `Google Gemini API` `SpeechRecognition` `edge-tts` `customtkinter`
 
@@ -59,7 +59,7 @@ Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais q
 ## 🎯 Atualmente
 
 - 📚 Estudando **estruturas de dados**, **lógica de programação** e **desenvolvimento web**
-- 🔧 Desenvolvendo o assistente **JARVIS** com Python e IA generativa
+- 🔧 Desenvolvendo o assistente de voz com Python e IA generativa
 - 🌱 Aprofundando conhecimentos em **JavaScript** (próximo passo)
 - 🏋️ Mantendo disciplina: academia + código, todo dia
 
