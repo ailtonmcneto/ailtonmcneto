@@ -41,7 +41,7 @@ Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais q
 
 ---
 
-### 🤖 Projeto JARVIS *(em desenvolvimento)*
+### 🤖 Projetos Com IA *(em desenvolvimento)*
 > Assistente de IA por **voz** .  
 > Controle de aplicativos, clima, música, busca no Google, memória persistente e muito mais.  
 > `Python` `Google Gemini API` `SpeechRecognition` `edge-tts` `customtkinter`
