@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**, com foco em desenvolvimento front-end e backend(atualmente python). Apaixonado por tecnologia e computação.
+Sou estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**, com foco em desenvolvimento front-end e backend. Apaixonado por tecnologia e computação.
 
 Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais que vão desde plataformas educacionais até assistentes de inteligência artificial.
 
@@ -20,7 +20,7 @@ Atualmente no **1º período**, já atuando em projetos acadêmicos e pessoais q
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
