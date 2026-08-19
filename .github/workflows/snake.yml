@@ -1,0 +1,36 @@
+# Cole este arquivo em: .github/workflows/snake.yml
+# no repositório ailtonmcneto/ailtonmcneto
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=7dd3fc&color_dots=#0d1117,#1e3a5f,#2563eb,#3b82f6,#7dd3fc
+            dist/github-contribution-grid-snake-dark.svg?color_snake=7dd3fc&color_dots=#0d1117,#1e3a5f,#2563eb,#3b82f6,#7dd3fc&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "ci: update snake animation [skip ci]"
