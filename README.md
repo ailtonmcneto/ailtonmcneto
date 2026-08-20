@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Banner: usa shields.io para o título (100% confiável) + typing svg -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ailton+Menezes" alt="Ailton Menezes"/>
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=99999&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%7C+System+Design" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ailton+Menezes" alt="Ailton Menezes"/>
 
 <br/>
 
-<!-- Letreiro rotativo -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Full+Stack+%7C+Java+%7C+System+Design;Estruturas+de+Dados+%2B+Banco+de+Dados+%2B+IA;Jo%C3%A3o+Pessoa%2C+PB+%E2%80%94+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=99999&color=93C5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%26+System+Design" alt="subtitle"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1200&color=BFDBFE&center=true&vCenter=true&width=700&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+Jo%C3%A3o+Pessoa%2C+PB;Java+%7C+System+Design+%7C+Estruturas+de+Dados;Banco+de+Dados+%7C+Full+Stack+%7C+IA)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,18 +20,18 @@
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**
-- 🧠 Foco em desenvolvimento **Full Stack**, com ênfase em **Java**, **System Design**, **Banco de Dados** e **Estruturas de Dados**
-- 🤖 Explorando **Inteligência Artificial** aplicada a projetos práticos
-- 🏗️ Gosto de entender o "porquê" por trás do código: como sistemas escalam, como dados se organizam e como boas decisões de arquitetura evitam dor de cabeça lá na frente
+- Estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**
+- Foco em desenvolvimento **Full Stack**, com ênfase em **Java**, **System Design**, **Banco de Dados** e **Estruturas de Dados**
+- Explorando **Inteligência Artificial** aplicada a projetos práticos
+- Gosto de entender o "porquê" por trás do código: como sistemas escalam, como dados se organizam e como boas decisões de arquitetura evitam problemas no futuro
 
 > *"Cada linha de código é um passo em direção a quem quero me tornar como profissional."*
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 
 <div align="center">
 
@@ -52,35 +50,31 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🖱️ [Primeiros Cliques](https://github.com/ailtonmcneto/Primeiros-Cliques)
-> Plataforma de **alfabetização digital** desenvolvida para auxiliar pessoas com pouco ou nenhum acesso à tecnologia.
-> 6 trilhas temáticas — dos primeiros passos no celular até serviços públicos e mercado de trabalho.
->
-> `HTML` `CSS` `Flexbox` `Design Responsivo`
+### [Primeiros Cliques](https://github.com/ailtonmcneto/Primeiros-Cliques)
+Plataforma de **alfabetização digital** para auxiliar pessoas com pouco ou nenhum acesso à tecnologia.
+6 trilhas temáticas — dos primeiros passos no celular até serviços públicos e mercado de trabalho.
 
----
-
-### 📊 [Dashboard em Python](https://github.com/ailtonmcneto/SEU-REPO-AQUI)
-> Painel de visualização de dados construído em Python.
->
-> `Python` `Dados` `Visualização`
+`HTML` `CSS` `Flexbox` `Design Responsivo`
 
 ---
 
-## 📈 GitHub Stats
+### [Dashboard em Python](https://github.com/ailtonmcneto/SEU-REPO-AQUI)
+Painel de visualização de dados construído em Python.
+
+`Python` `Dados` `Visualização`
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/ailtonmcneto">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ailtonmcneto&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_color=1d4ed8&bg_color=0d1117&title_color=93c5fd&icon_color=60a5fa&text_color=e2e8f0" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/ailtonmcneto">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtonmcneto&layout=compact&theme=tokyonight&hide_border=false&border_color=1d4ed8&bg_color=0d1117&title_color=93c5fd&text_color=e2e8f0" alt="Top Languages"/>
-</a>
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ailtonmcneto&show_icons=true&hide_border=false&count_private=true&border_color=1d4ed8&bg_color=0d1117&title_color=93c5fd&icon_color=60a5fa&text_color=e2e8f0)](https://github.com/ailtonmcneto)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ailtonmcneto&layout=compact&hide_border=false&border_color=1d4ed8&bg_color=0d1117&title_color=93c5fd&text_color=e2e8f0)](https://github.com/ailtonmcneto)
 
-<br/><br/>
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ailtonmcneto&theme=transparent&hide_border=false&locale=pt_BR&background=0d1117&ring=60a5fa&fire=93c5fd&currStreakLabel=93c5fd&sideLabels=93c5fd&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=1d4ed8)](https://git.io/streak-stats)
 
@@ -88,7 +82,7 @@
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 <picture>
@@ -100,16 +94,15 @@
 
 ---
 
-## 🎯 Atualmente
+## Atualmente
 
-- 📚 Aprofundando **estruturas de dados**, **algoritmos** e **system design**
-- 🗄️ Estudando **banco de dados** relacional na prática
-- 🌱 Explorando **IA aplicada** em projetos pessoais
-- 🏋️ Mantendo disciplina: academia + código, todo dia
+- Aprofundando **estruturas de dados**, **algoritmos** e **system design**
+- Estudando **banco de dados** relacional na prática
+- Explorando **IA aplicada** em projetos pessoais
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
