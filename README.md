@@ -22,12 +22,10 @@
 
 ## Sobre mim
 
-- Estudante de **Ciência da Computação**, baseado em **João Pessoa, PB — Brasil**
-- Foco em desenvolvimento **Full Stack**, com ênfase em **Java**, **System Design**, **Banco de Dados** e **Estruturas de Dados**
+- Estudante de **Ciência da Computação**,  **João Pessoa, PB — Brasil**
+- Foco em desenvolvimento de software, com ênfase em **Java**, **System Design**, **Banco de Dados** e **Estruturas de Dados**
 - Explorando **Inteligência Artificial** aplicada a projetos práticos
-- Gosto de entender o "porquê" por trás do código: como sistemas escalam, como dados se organizam e como boas decisões de arquitetura evitam problemas no futuro
 
-> *"Cada linha de código é um passo em direção a quem quero me tornar como profissional."*
 
 ---
 
@@ -91,14 +89,6 @@ Painel de visualização de dados construído em Python.
   <img alt="snake animation" src="https://raw.githubusercontent.com/ailtonmcneto/ailtonmcneto/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
-
----
-
-## Atualmente
-
-- Aprofundando **estruturas de dados**, **algoritmos** e **system design**
-- Estudando **banco de dados** relacional na prática
-- Explorando **IA aplicada** em projetos pessoais
 
 ---
 
