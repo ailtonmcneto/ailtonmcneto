@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=99999&color=93C5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%26+System+Design" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=99999&color=93C5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+%26" alt="subtitle"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1200&color=BFDBFE&center=true&vCenter=true&width=700&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+Jo%C3%A3o+Pessoa%2C+PB;Java+%7C+System+Design+%7C+Estruturas+de+Dados;Banco+de+Dados+%7C+Full+Stack+%7C+IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&pause=1200&color=BFDBFE&center=true&vCenter=true&width=700&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+Jo%C3%A3o+Pessoa%2C+PB;Java+%7C+%7C;Banco+de+Dados+%7C+Full+Stack+%7C+IA)](https://git.io/typing-svg)
 
 <br/>
 
