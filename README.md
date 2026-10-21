@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-menezes-cunha-neto-301a783a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-menezes-301a783a7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ailtonmcneto)
 [![Email](https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailtonmcn.dev@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=ailtonmcneto&label=Visitors&color=1d4ed8&style=for-the-badge)](https://github.com/ailtonmcneto)
@@ -110,7 +110,7 @@ Plataforma de **alfabetização digital** voltada principalmente ao público mai
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-menezes-cunha-neto-301a783a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-menezes-301a783a7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ailtonmcneto)
 [![Email](https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailtonmcn.dev@gmail.com)
 
